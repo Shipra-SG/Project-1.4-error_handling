@@ -1,4 +1,3 @@
-````markdown
 # 🛠️ Error Handling in Shell Scripting
 
 A collection of **Bash shell scripts** demonstrating robust error handling techniques and best practices for shell scripting.
