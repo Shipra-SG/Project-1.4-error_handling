@@ -1,10 +1,10 @@
-# 🛠️ Error Handling in Shell Scripting
+# Error Handling in Shell Scripting
 
 A collection of **Bash shell scripts** demonstrating robust error handling techniques and best practices for shell scripting.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains examples and scripts that illustrate how to handle errors effectively in Bash shell scripts.  
 Error handling is crucial for building **reliable, maintainable, and safe automation scripts** — especially when used for system administration, DevOps automation, or production deployments.
